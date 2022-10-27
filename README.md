@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @qautomationtechno
+- 👀 I’m interested in automating web/mobile apps 
+- 🌱 I’m currently learning playwright 
+- 💞️ I’m looking to collaborate on any decent project 
+- 📫 How to reach me raeesqatech@gmail.com
